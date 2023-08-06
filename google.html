@@ -228,6 +228,24 @@ img-rounded" width="180">
   window.open(query);
 }
 </script>
+
+<script src="rss-marquee.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+
+            const feedUrl = ['https://cors-anywhere.herokuapp.com/https://www.buzzfeed.com/world.xml',
+                'https://www.dnoticias.pt/rss/home.xml',
+                'https://www.dnoticias.pt/rss/mundo.xml'
+            ];
+
+            const elementSelector = document.getElementById('marquee');
+
+            new RSSMarquee(feedUrl, elementSelector, {
+                speed: 105,
+                maxItems: 3
+            });
+        });
+    </script>
 </center>
 </footer>
         <!-- Bootstrap core JS-->
