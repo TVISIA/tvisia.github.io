@@ -39,6 +39,9 @@
     .drweb_file_selection_wrapper:hover {background-position: 139px -21px;}
     .drweb_file_selection_wrapper:active {background-position: 139px -42px;}
 </style>
+<style>
+.mySlides {display:none;}
+</style>
     </head>
     <body>
         <!-- Navigation-->
@@ -134,6 +137,8 @@ img-rounded" width="180">
         </nav>
      <!-- Apps-->
         <center>
+
+<p>
                       <p>   <br>
 <script async src="https://cse.google.com/cse.js?cx=001844535802072801793:c0ybnwpxx4u"></script><div class="gcse-search"></div>
 <hr>
@@ -181,6 +186,35 @@ img-rounded" width="180">
 </div>
 <hr>
 </center>
+
+<h2 class="w3-center">Automatic Slideshow</h2>
+
+<div class="w3-content w3-section" style="max-width:500px">
+  <img class="mySlides" src="https://cdn.mos.cms.futurecdn.net/X6dHuyS22wJ8hgd8bofhqn.jpg" style="width:100%">
+  <img class="mySlides" src="https://www.notebookcheck.com/fileadmin/Notebooks/News/_nc3/Nokia_Streaming_Stick_800_big_hero_nokia_com.jpg" style="width:100%">
+  <img class="mySlides" src="https://eloutput.com/wp-content/uploads/2022/07/android-tv-fire-tv.jpg" style="width:100%">
+</div>
+<hr>
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
+
+</body>
+</html>
+
 
 <div class="onoffswitch3">
     <label class="onoffswitch3-label" for="myonoffswitch3">
