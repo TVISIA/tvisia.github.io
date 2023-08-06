@@ -1320,7 +1320,8 @@ img-rounded" width="180">
      <!-- Suchmaschine erweitert-->
    <center>
                                       <div>
-        <select id="category-select">
+     
+          <select class="custom-select w-15" id="category-select" >
           <option value="all" selected>Alle<option>
           <option value="video">Video</option>
           <option value="audio">Audio</option>
@@ -1331,8 +1332,8 @@ img-rounded" width="180">
           <option value="archive">Archiv</option>
           <option value="mac">Portal</option>
         </select>
-      <input type="text" class="form-outline mb-1" placeholder="Suche in Kategorie" id="search-input">
-    <button type="button" class="btn btn-info" id="search-button" onclick="search()">Suche</button> </center>     </div>
+      <input type="text" class="form-inline my-2 my-sm-0 w-30" placeholder="Suche in Kategorie" id="search-input">
+    <button type="button" class="btn btn-outline-success my-2 my-sm-0" id="search-button" onclick="search()">Suche</button> </center>     </div>
 <script type="text/javascript">
     function search() {
   // Récupération de la valeur du champ de recherche
