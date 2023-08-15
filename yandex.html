@@ -27,14 +27,11 @@
         border: none; /* Remove default border */
         background: lightyellow; /* Just for styling */
     }
-.bg-custom-2 {
-    background-image: linear-gradient(15deg, #263238 0%, #36648B 100%);
-}
 </style>
     </head>
     <body>
         <!-- Navigation-->
-<nav class="navbar navbar-dark bg-custom-2">
+<nav class="navbar navbar no-expand-md navbar-dark fixed-top bg-dark">
   <div class="container-fluid">
               <img src="img/androidfire.png" href="https://tvisia.tk" alt="Logo" class="
 img-rounded" width="180">
@@ -42,6 +39,11 @@ img-rounded" width="180">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
+                      <div align="left">
+<form class="form-inline my-2 my-lg-0">
+      <input class="form-inline my-2 my-sm-0 w-20" placeholder="Google" id="search-input">
+      <button class="btn btn-outline-info my-2 my-sm-0 w-5" id="search-button" onclick="search()" type="submit">Go</button></div>
+    </form>
                         <li class="nav-item"><a class="nav-link"></a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">TV App Archive</a>
