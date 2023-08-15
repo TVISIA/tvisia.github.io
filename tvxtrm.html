@@ -2,22 +2,14 @@
 <html lang="en">
     <head>
      <!-- metata-->
-        <meta http-equiv="content-Type" content="text/html; utf-8" />
-<meta http-equiv="Pragma" content="cache" />
-<meta name="robots" content="INDEX,NOFOLLOW" />
-<meta http-equiv="content-Language" content="de" />
-<meta name="description" content="Appstore für Android TV & Fire TV ✓ 1-Click Installer ✓ sicher durch VirusTotal" />
-<meta name="keywords" content="tvisia,android,tv,stb,fire,os,stick,box,tv,iptv,kodi,vpn,dns,tools,apps,apk,plugin,addons,tool,kovi,vpn,mod,mods,androidiptv,droidiptv,droid,tv,amazon,google,stick,cube,4k,hd,3d,fhd," />
-<meta name="author" content="TVISIA" />
-<meta name="publisher" content="TVISIA.TK" />
-<meta name="copyright" content="TVISIA" />
-<meta name="audience" content="Alle" />
-<meta name="page-type" content="Software Download" />
-<meta name="page-topic" content="Medien" />
-<meta http-equiv="Reply-to" content="androidiptv@yandex.com" />
-<meta name="expires" content="" />
-<meta name="revisit-after" content="2 days" />
-<title>TVISIA | Startseite für Android TV</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="Appstore für Android TV & Fire TV ✓ 1-Click Installer ✓ sicher durch VirusTotal"   />
+        <meta name="author" content="TVISIA" />
+         <meta name="keywords" content="tvisia,android,tv,stb,fire,os,stick,box,tv,iptv,kodi,vpn,dns,tools,apps,apk,plugin,addons,tool">
+         <meta name="language" content="DE">
+    <meta name="robots" content="index,follow">
+        <title>TVISIA | Appstore for Android & Fire TV</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Bootstrap icons-->
@@ -33,7 +25,7 @@
         height: 100vh;  /* Set height to 100% of the viewport height */
         width: 100vw;  /* Set width to 100% of the viewport width */
         border: none; /* Remove default border */
-        background: lightyellow; /* Just for styling */
+        background: dark; /* Just for styling */
     }
 </style>
     </head>
@@ -131,7 +123,7 @@ img-rounded" width="180">
         </nav>
      <!-- Apps-->
         <section class="py-5">
-      <iframe src="https://iptvextreme.eu"></iframe>
+      <iframe src="https://iptvextreme.eu/"></iframe>
                 </div>
             </div>
         </section>
@@ -140,7 +132,8 @@ img-rounded" width="180">
      <!-- Suchmaschine erweitert-->
    <center>
                                       <div>
-        <select id="category-select">
+     
+          <select class="custom-select w-15" id="category-select" >
           <option value="all" selected>Alle<option>
           <option value="video">Video</option>
           <option value="audio">Audio</option>
@@ -151,8 +144,8 @@ img-rounded" width="180">
           <option value="archive">Archiv</option>
           <option value="mac">Portal</option>
         </select>
-      <input type="text" class="form-outline mb-1" placeholder="Suche in Kategorie" id="search-input">
-    <button type="button" class="btn btn-info" id="search-button" onclick="search()">Suche</button> </center>     </div>
+      <input type="text" class="form-inline my-2 my-sm-0 w-30" placeholder="eweiterte Suche mit Google" id="search-input">
+    <button type="button" class="btn btn-outline-info my-2 my-sm-0" id="search-button" onclick="search()">Go!</button> </center>     </div>
 <script type="text/javascript">
     function search() {
   // Récupération de la valeur du champ de recherche
@@ -191,5 +184,3 @@ img-rounded" width="180">
         <script src="js/scripts.js"></script>
     </body>
 </html>
-
-
