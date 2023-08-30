@@ -349,7 +349,7 @@ const Restaurants = () => {
                 desc: "The best burgers in town",
                 id: 1,
                 image: "https://images.unsplash.com/photo-1606131731446-5568d87113aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YnVyZ2Vyc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-                title: "Burgers"
+                title: "Cache Cleaners"
             }, {
                 desc: "The worst ice-cream around",
                 id: 2,
