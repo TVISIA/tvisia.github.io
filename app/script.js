@@ -5,18 +5,18 @@ var UserStatus;
     UserStatus["LoggingIn"] = "Logging In";
     UserStatus["LoggedOut"] = "Logged Out";
     UserStatus["LogInError"] = "Log In Error";
-    UserStatus["VerifyingLogIn"] = "Verifying Log In";
+    UserStatus["VerifyingLogIn"] = "Prüfe Login";
 })(UserStatus || (UserStatus = {}));
 var Default;
 (function (Default) {
-    Default["PIN"] = "1234";
+    Default["PIN"] = "8888";
 })(Default || (Default = {}));
 var WeatherType;
 (function (WeatherType) {
-    WeatherType["Cloudy"] = "Cloudy";
-    WeatherType["Rainy"] = "Rainy";
-    WeatherType["Stormy"] = "Stormy";
-    WeatherType["Sunny"] = "Sunny";
+    WeatherType["Cloudy"] = "Bewölkt";
+    WeatherType["Rainy"] = "Regnerisch";
+    WeatherType["Stormy"] = "Stürmisch";
+    WeatherType["Sunny"] = "Sonnig";
 })(WeatherType || (WeatherType = {}));
 const defaultPosition = () => ({
     left: 0,
@@ -174,11 +174,12 @@ const Pin = () => {
         }
     };
     const getCancelText = () => {
-        return (React.createElement("span", { id: "app-pin-cancel-text", onClick: handleOnCancel }, "Cancel"));
+        return (React.createElement("span", { id: "app-pin-cancel-text", onClick: handleOnCancel }, "Abbruch"));
+        return (React.createElement("span", { id: "app-pin-cancel-text", onClick: handleOnCancel }, "Abbruch"));
     };
     const getErrorText = () => {
         if (userStatus === UserStatus.LogInError) {
-            return (React.createElement("span", { id: "app-pin-error-text" }, "Invalid"));
+            return (React.createElement("span", { id: "app-pin-error-text" }, "Ungültig"));
         }
     };
     return (React.createElement("div", { id: "app-pin-wrapper" },
@@ -189,7 +190,7 @@ const Pin = () => {
             React.createElement(PinDigit, { focused: pin.length === 2, value: pin[2] }),
             React.createElement(PinDigit, { focused: pin.length === 3, value: pin[3] })),
         React.createElement("h3", { id: "app-pin-label" },
-            "Enter PIN (1234) ",
+            "PIN eingeben (bspw. 1234) ",
             getErrorText(),
             " ",
             getCancelText())));
@@ -295,7 +296,7 @@ const Tools = () => {
                 icon: "fa-solid fa-cloud-sun",
                 id: 1,
                 image: "https://images.unsplash.com/photo-1492011221367-f47e3ccd77a0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHdlYXRoZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-                label: "Weather",
+                label: "Wetter",
                 name: "Cloudly"
             }, {
                 icon: "fa-solid fa-calculator-simple",
@@ -307,7 +308,7 @@ const Tools = () => {
                 icon: "fa-solid fa-piggy-bank",
                 id: 3,
                 image: "https://images.unsplash.com/photo-1579621970588-a35d0e7ab9b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YmFua3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-                label: "Bank",
+                label: "AFTV",
                 name: "Cashy"
             }, {
                 icon: "fa-solid fa-plane",
