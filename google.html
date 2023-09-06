@@ -225,6 +225,105 @@ function carousel() {
     </label>
 </div>
 <hr>
+       
+<div class="container">
+  <br>
+  <p>
+  <h2>Link Verzeichnis</h2>
+  <p>vieler nützlicher Dienste für ihre Android TV / Fire TV / STB Geräte</p>  
+  <input class="form-control" id="myInput" type="text" placeholder="Suche..">
+  <br>
+  <table class="table table-bordered table-striped">
+    <thead>
+      <tr>
+       
+        <th>Name</th>
+        <th>URL</th>
+         <th>Kategorie</th>
+      </tr>
+    </thead>
+    <tbody id="myTable">
+      <tr>
+        <td>VirusTotal</td>
+        <td>https://tvisia.tk/virustotal.html</td>
+        <td>Antivirus</td>
+      </tr>
+      <tr>
+        <td>Fast.com</td>
+        <td>https://tvisia.tk/fast.html</td>
+        <td>Speedtest</td>
+      </tr>
+      <tr>
+        <td>AFTV Downloader URL Code Shortener</td>
+        <td>https://tvisia.tk/aftvurl.html</td>
+        <td>URL Shortener</td>
+      </tr>
+      <tr>
+        <td>IPTV Extreme Playlist </td>
+               <td><a href="https://tvisia.tk/tvxtrm.html">
+https://iptvextreme.eu/</a></td>
+        <td>m3u</td>
+      </tr>
+      <tr>
+        <td>DJ JubeeMedia Appboxes</td>
+        <td><a href="https://tvisia.tk/jmappbox.html">
+https://tvisia.tk/jmappbox.html
+</a></td>
+        <td>Software Apps</td>
+      </tr>
+      <tr>
+        <td>DJ Jubeemedia Appboxes</td>
+        <td><a href="https://tvisia.tk/jmappbox.html">https://tvisia.tk/jmappbox.html</td>
+        <td>Software Apps</td>
+      </tr>
+      <tr>
+        <td>MIDIAN Appboxes</td>
+        <td><a href="https://tvisia.tk/midianppbox.html">https://tvisia.tk/midianappbox.html</td>
+        <td>Software Apps</td>
+      </tr>
+      <tr>
+        <td>AAA</td>
+        <td>https://tvisia.tk/BBB.html</td>
+        <td>CCC</td>
+      </tr>
+      <tr>
+        <td>Erweiterte Datei-Suche</td>
+        <td>https://tvisia.tk/google.html</td>
+        <td>Suchmaschinen</td>
+      </tr>
+      <tr>
+        <td>IDMP3</td>
+        <td>https://tvisia.tk/myfreemp3juices.html</td>
+        <td>Premium 320k Audio Player & Downloader</td>
+      </tr>
+      <tr>
+        <td>Michaz Repository</td>
+        <td><i><https://michaz1988.github.io</i></td>
+        <td>KODI Repository</td>
+      </tr>
+      <tr>
+        <td>YouTube Activation Device</td>
+               <td><a href="https://youtube.com/activate">
+https://youtube.com/activate</a></td>
+        <td>Youtube Gerätekopplung</td>
+      </tr>
+    </tbody>
+  </table>
+   <p>Note that we start the search in tbody, to prevent filtering the table headers.</p>
+</div>
+
+<script>
+$(document).ready(function(){
+  $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#myTable tr").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
+</script>
+
+            </div>
 
         <!-- Footer-->
        <p> <footer class="text-center bg-dark text-light p-1 fixed-bottom">
