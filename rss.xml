@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>TVISIA</title>
+		<link>https://tvisia.tk</link>
+		<description>Android TV AppStore </description>
+		<language>en-us</language>
+		<copyright><![CDATA[ © TVISIA.TK  ]]></copyright>
+		<image>
+			<url>https://tvisia.tk/logo.png</url>
+			<title>TVISIA</title>
+			<link>https://tvisia.tk</link>
+		</image>
+		<item>
+			<title>KOVI Mediencenter 19.5 </title>
+			<link></link>
+			<pubDate>Mon,  Sep 2023 12:00:00 GMT</pubDate>
+			<author>Thomas Baumann</author>
+			<category>Apps</category>
+			<description><![CDATA[ 
+			<h1>KOVI Mediencenter 19.5 </h1>
+			<p>One Click Installer
+<p>Sicher durch VirusTotal 
+			]]></description>
+		</item>
+	</channel>
+</rss>
