@@ -25,7 +25,7 @@
         height: 100vh;  /* Set height to 100% of the viewport height */
         width: 100vw;  /* Set width to 100% of the viewport width */
         border: none; /* Remove default border */
-        background: lightyellow; /* Just for styling */
+        background: dark; /* Just for styling */
     }
 </style>
     </head>
@@ -33,9 +33,9 @@
         <!-- Navigation-->
 <nav class="navbar navbar no-expand-md navbar-dark fixed-top bg-dark">
   <div class="container-fluid">
-              <img src="img/androidfire.png" href="https://tvisia.tk" alt="Logo" class="
+              <img src="img/androidfire.png" href="https://tvisia.github.io" alt="Logo" class="
 img-rounded" width="180">
-<a class="btn btn-outline-warning btn-sm" href="https://aftv.news/787260" role="button">787260</a>
+<a class="btn btn-outline-warning btn-sm" href="https://tvisia.github.io"" role="button">787260</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
@@ -128,14 +128,14 @@ img-rounded" width="180">
             </div>
         </section>
         <!-- Footer-->
-       <p> <footer class="text-center bg-dark text-light p-1 fixed-bottom">
+       <p> <footer class="text-center bg-dark text-light p-1 bottom">
      <!-- Suchmaschine erweitert-->
    <center>
                                       <div>
-        <select id="category-select">
-          <option value="all" selected>Alle<option>
+        <select id="category-select small">
+          <option value="all">keine</option>
           <option value="video">Video</option>
-          <option value="audio">Audio</option>
+          <option value="audio" selected>Audio</option>
           <option value="ebook">eBook</option>
           <option value="image">Bild</option>
           <option value="software">Software</option>
@@ -143,8 +143,8 @@ img-rounded" width="180">
           <option value="archive">Archiv</option>
           <option value="mac">Portal</option>
         </select>
-      <input type="text" class="form-outline mb-1" placeholder="Suche in Kategorie" id="search-input">
-    <button type="button" class="btn btn-info" id="search-button" onclick="search()">Suche</button> </center>     </div>
+      <input type="text" class="form-outline small" placeholder="erweiterterte Google Suche" id="search-input">
+    <button type="button" class="btn btn-outline-warning btn-sm" id="search-button" onclick="search()">Suche</button> </center>   </div>
 <script type="text/javascript">
     function search() {
   // Récupération de la valeur du champ de recherche
