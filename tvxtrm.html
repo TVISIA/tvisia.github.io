@@ -128,13 +128,13 @@ img-rounded" width="180">
             </div>
         </section>
         <!-- Footer-->
-       <p> <footer class="text-center bg-dark text-light p-1 fixed-bottom">
+       <p> <footer class="text-center bg-dark text-light p-1 bottom">
      <!-- Suchmaschine erweitert-->
    <center>
                                       <div>
      
-          <select class="custom-select w-15" id="category-select" >
-          <option value="all" selected>Alle<option>
+          <select class="custom-select w-0 small" id="category-select" >
+          <option value="all" selected>keine</option>
           <option value="video">Video</option>
           <option value="audio">Audio</option>
           <option value="ebook">eBook</option>
@@ -144,8 +144,8 @@ img-rounded" width="180">
           <option value="archive">Archiv</option>
           <option value="mac">Portal</option>
         </select>
-      <input type="text" class="form-inline my-2 my-sm-0 w-30" placeholder="eweiterte Suche mit Google" id="search-input">
-    <button type="button" class="btn btn-outline-info my-2 my-sm-0" id="search-button" onclick="search()">Go!</button> </center>     </div>
+      <input type="text" class="form-outline small" placeholder="eweiterte Suche mit Google" id="search-input">
+    <button type="button" class="btn btn-outline-warning small" id="search-button" onclick="search()">Suche</button> </center>     </div>
 <script type="text/javascript">
     function search() {
   // Récupération de la valeur du champ de recherche
