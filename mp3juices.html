@@ -140,10 +140,10 @@ img-rounded" width="180">
      <!-- Suchmaschine erweitert-->
    <center>
                                       <div>
-        <select id="category-select">
-          <option value="all" selected>keine</option>
+        <select id="category-select small">
+          <option value="all">keine</option>
           <option value="video">Video</option>
-          <option value="audio">Audio</option>
+          <option value="audio" selected>Audio</option>
           <option value="ebook">eBook</option>
           <option value="image">Bild</option>
           <option value="software">Software</option>
@@ -151,8 +151,8 @@ img-rounded" width="180">
           <option value="archive">Archiv</option>
           <option value="mac">Portal</option>
         </select>
-      <input type="text" class="form-outline sm" placeholder="erweiterterte Google Suche" id="search-input">
-    <button type="button" class="btn btn-outline-warning btn-sm" id="search-button" onclick="search()">Suche</button> </center>     </div>
+      <input type="text" class="form-outline small" placeholder="erweiterterte Google Suche" id="search-input">
+    <button type="button" class="btn btn-outline-warning btn-sm" id="search-button" onclick="search()">Suche</button> </center>   </div>
 <script type="text/javascript">
     function search() {
   // Récupération de la valeur du champ de recherche
