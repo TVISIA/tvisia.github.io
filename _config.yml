@@ -29,7 +29,7 @@ github:
   username: TVISIA # change to your GitHub username
 
 twitter:
-  username: TVISIA # change to your Twitter username
+  username: tvisia # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -116,7 +116,7 @@ actions:
     # Use dynamic or static URL for the edit link.
     # If `static_url` is false, the post's path will be appended to the `url` above as the final edit link.
     # Set to true if the URL should remain unchanged, which means each post will share the same edit link.
-    static_url: false # [ true | false ]
+    static_url: true # [ true | false ]
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
