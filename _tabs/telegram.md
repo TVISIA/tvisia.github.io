@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-telegram
+icon: fa-brands fa-telegram
 order: 5
 ---
 
