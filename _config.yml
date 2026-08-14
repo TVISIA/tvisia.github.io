@@ -16,7 +16,7 @@ timezone: Berlin/Europe
 
 title: TVISIA # the main title
 
-tagline: Alternative Appstore for Android TV # it will display as the subtitle
+tagline: Alternativer Appstore für Android TV # it will display as the subtitle
 
 description: >-  Smarte Apps für Android TV Geräte 
 
@@ -41,7 +41,7 @@ social:
     - https://x.com/tvisia # change to your Twitter homepage
     - https://github.com/TVISIA # change to your GitHub homepage
     # Uncomment below to add more social links
-     https://www.facebook.com/tvisia
+    - https://www.facebook.com/tvisia
     # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
@@ -115,7 +115,7 @@ actions:
     # Use dynamic or static URL for the edit link.
     # If `static_url` is false, the post's path will be appended to the `url` above as the final edit link.
     # Set to true if the URL should remain unchanged, which means each post will share the same edit link.
-    static_url: false # [ true | false ]
+    static_url: true # [ true | false ]
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
