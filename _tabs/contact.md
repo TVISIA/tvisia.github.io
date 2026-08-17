@@ -8,3 +8,8 @@ order: 5
 Support 
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
+> a warning
+{: .prompt-warning }
+{: .prompt-error }
+{: .prompt-success }
+{: .prompt-default }
