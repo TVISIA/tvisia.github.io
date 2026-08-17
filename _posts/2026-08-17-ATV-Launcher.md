@@ -27,13 +27,10 @@ Offizielle Version [hier](https://virustotal.com) herunterladen
 > **Wichtige Informationen**:
 Überprüfen sie wirklich jede APK Datei vor der Installation mit [VirusTotal](https://virustotal.com), um schädliche Software garnicht erst zuzulassen.
 ------
-![Appteka](https://raw.githubusercontent.com/TVISIA/tvisia.github.io/refs/heads/main/assets/img/dlappteka_20240512185130.png){: width="150"}
-
-![APKPure](/assets/img/dlapkpure2_20240512183756.png){: width="150"}
-
-![GitHub](/assets/img/dlgithub2_20240512181320.png){: width="150"}
-
-![Amazon Appstore](/assets/img/dlamazonappstore_20240512070955.png){: width="150"}
+![Appteka](https://raw.githubusercontent.com/TVISIA/tvisia.github.io/refs/heads/main/assets/img/dlappteka_20240512185130.png){: width="200"}
+![APKPure](/assets/img/dlapkpure2_20240512183756.png){: width="200"}
+![GitHub](/assets/img/dlgithub2_20240512181320.png){: width="200"}
+![Amazon Appstore](/assets/img/dlamazonappstore_20240512070955.png){: width="200"}
 
 > Informationen 
 
@@ -65,4 +62,5 @@ Offizielle Version [hier](https://virustotal.com) herunterladen
 ~~~~
 Code
 
-
+> **Wichtige Informationen**:
+Überprüfen sie wirklich jede APK Datei vor der Installation mit [VirusTotal](https://virustotal.com), um schädliche Software garnicht erst zuzulassen.
