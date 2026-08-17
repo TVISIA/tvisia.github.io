@@ -14,10 +14,17 @@ X
 
 X / Twitter 
 
-<a href="https://www.x.com" target="_blank" rel="noopener">
-  <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
+<a href="https://www.facebook.com/tvisia" target="_blank" rel="noopener">
+  <i class="fa-brands fa-facebook" aria-hidden="true"></i>
 </a>
 
+<a href="https://t.me/tvisia" target="_blank" rel="noopener">
+  <i class="fa-brands fa-telegram" aria-hidden="true"></i>
+</a>
+
+<a href="https://www.github.com/TVISIA" target="_blank" rel="noopener">
+  <i class="fa-brands fa-github" aria-hidden="true"></i>
+</a>
 
 Telegram 
 <i class="fa-brands fa-telegram"><a href="https://www.telegram.com"></a></i>
