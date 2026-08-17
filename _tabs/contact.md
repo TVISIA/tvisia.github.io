@@ -24,9 +24,32 @@ Amazon
 Google 
 <i class="fa-brands fa-google"></i>
 
-icon
+Facebook 
+<i class="fa-brands fa-facebook"></i>
+
+YouTube 
+<i class="fa-brands fa-youtube"></i>
+
+Android 
+<i class="fa-brands fa-android"></i>
+
+Google Play 
+<i class="fa-brands fa-google-play"></i>
+
+Pinterest 
+<i class="fa-brands fa-pinterest"></i>
+
+WhatsApp 
+<i class="fa-brands fa-whatsapp"></i>
+
+Signal 
+<i class="fa-brands fa-signal-messenger"></i>
+
+XMPP /Jabber 
+<i class="fa-brands fa-xmpp"></i>
+
 <wa-icon name="x-twitter" family="brands"></wa-icon>
 
 > Add Markdown syntax content to file `_tabs/contact.md`{: .filepath } and it will show up on this page.
-{: .prompt-info }
+{: .prompt-unfo }
 
