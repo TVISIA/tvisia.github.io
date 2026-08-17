@@ -7,7 +7,9 @@ order: 5
 
 > Add Markdown syntax content to file `_tabs/contact.md`{: .filepath } and it will show up on this page.
 {: .prompt-warning }
+___
 > Add Markdown syntax content to file `_tabs/contact.md`{: .filepath } and it will show up on this page.
 {: .prompt-error }
 > Add Markdown syntax content to file `_tabs/contact.md`{: .filepath } and it will show up on this page.
 {: .prompt-success }
+___
