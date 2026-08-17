@@ -34,7 +34,7 @@ Offizielle Version [hier](https://virustotal.com) herunterladen
 
 > Informationen 
 
-* Einstellungen 
+* Einstellungen  
 * GitHub Veröffentlichung 💾
 * Entweder 
        * Bbx* jnc* nnx
