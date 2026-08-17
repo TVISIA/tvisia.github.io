@@ -18,16 +18,16 @@ Telegram
 GitHub
 <i class="fa-brands fa-github"><a href="https://www.github.com"></a></i>
 
-Amazon 
+Amazon
 <i class="fa-brands fa-amazon"><a href="https://www.amazon.com"></a></i>
 
 Google 
 <i class="fa-brands fa-google"><a href="https://www.google.com"></a></i>
 
-Facebook 
+Facebook
 <i class="fa-brands fa-facebook"><a href="https://www.facebook.com"></a></i>
 
-YouTube 
+YouTube
 <i class="fa-brands fa-youtube"><a href="https://m.youtube.com"></a></i>
 
 Android 
