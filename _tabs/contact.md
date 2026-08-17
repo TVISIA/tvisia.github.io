@@ -13,6 +13,7 @@ X
 <i class="fa-brands fa-x-twitter"><<a href="https://www.x.com"></a>/i>
 
 X / Twitter 
+
 <a href="https://www.x.com" target="_blank" rel="noopener">
   <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
 </a>
