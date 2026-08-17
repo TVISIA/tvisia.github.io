@@ -78,3 +78,22 @@ ___
 ___
 ![Appteka](https://raw.githubusercontent.com/TVISIA/tvisia.github.io/refs/heads/main/assets/img/dlappteka_20240512185130.png){: width="200"} ![APKPure](/assets/img/dlapkpure2_20240512183756.png){: width="200"} ![GitHub](/assets/img/dlgithub2_20240512181320.png){: width="200"} ![Amazon Appstore](/assets/img/dlamazonappstore_20240512070955.png){: width="200"}
 
+Fire TV Stick für IPTV vorbereiten: Sideloading aktivieren
+Bevor Sie IPTV-Apps auf Ihrem Fire TV Stick installieren können, müssen Sie das sogenannte „Sideloading" aktivieren. Das klingt kompliziert, dauert aber nur 2 Minuten:
+
+1
+Entwickleroptionen aktivieren
+Navigieren Sie zu Einstellungen → Mein Fire TV → Entwickleroptionen. Falls nicht sichtbar: Gehen Sie zu Info und klicken Sie 7× auf den Modellnamen.
+
+2
+„Apps aus unbekannten Quellen" erlauben
+Aktivieren Sie unter Entwickleroptionen die Option „Apps aus unbekannten Quellen". Bestätigen Sie die Sicherheitswarnung.
+
+3
+Downloader App installieren
+Öffnen Sie den Amazon Appstore und suchen Sie nach „Downloader" (oranges Icon). Laden Sie die kostenlose App herunter.
+
+ℹ️ Hinweis
+Bei neueren Fire OS-Versionen müssen Sie unter Entwickleroptionen speziell der „Downloader"-App die Installationsberechtigung erteilen.
+
+📥
