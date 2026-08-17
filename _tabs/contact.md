@@ -57,20 +57,24 @@ XMPP /Jabber
 
 <wa-icon name="x-twitter" family="brands"></wa-icon>
 
-> Add Markdown syntax content to file `_tabs/contact.md`{: .filepath } and it will show up on this page.
+> Überprüfe jede heruntergeladene APK-Datei mit `VirusTotal` auf schädlichen Code. 
 {: .prompt-info }
-
+___
 **Downloader Code**
 ~~~~ 
 12345
 ~~~~ 
 
+> Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
+{: .prompt-warning }
+___
+> Erstelle eigene Kurzlinks mit `AFTV.NEWS` und öffne sie einfach per 5-stelligen Zifferncode mit der Downloader App.
+{: .prompt-error}
+___
 ![Appteka](https://raw.githubusercontent.com/TVISIA/tvisia.github.io/refs/heads/main/assets/img/dlappteka_20240512185130.png){: width="200"}
 ![APKPure](/assets/img/dlapkpure2_20240512183756.png){: width="200"}
 ![GitHub](/assets/img/dlgithub2_20240512181320.png){: width="200"}
 ![Amazon Appstore](/assets/img/dlamazonappstore_20240512070955.png){: width="200"}
-
 ___
-
 ![Appteka](https://raw.githubusercontent.com/TVISIA/tvisia.github.io/refs/heads/main/assets/img/dlappteka_20240512185130.png){: width="200"} ![APKPure](/assets/img/dlapkpure2_20240512183756.png){: width="200"} ![GitHub](/assets/img/dlgithub2_20240512181320.png){: width="200"} ![Amazon Appstore](/assets/img/dlamazonappstore_20240512070955.png){: width="200"}
 
