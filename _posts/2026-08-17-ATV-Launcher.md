@@ -1,11 +1,11 @@
 ---
 title: ATV Launcher 
 date: 2026-08-17 08:14:30 
-categories: [Apps, Launcher] [KOVI, Plugins]
-tags: [Fire tv stick]     # TAG names should always be lowercase
+categories: [Apps, Launcher]
+tags: [fire tv stick]     # TAG names should always be lowercase
 ---
 
-![](https://raw.githubusercontent.com/TVISIA/tvisia.github.io/refs/heads/main/assets/img/tvlogonew.png)
+![logo](https://raw.githubusercontent.com/TVISIA/tvisia.github.io/refs/heads/main/assets/img/tvlogonew.png)
 
 # Mixplorer 
 
