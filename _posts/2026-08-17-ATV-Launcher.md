@@ -21,7 +21,7 @@ eine intuitive schnelle Benutzeroberfläche für Android TV Geräte.
 ### Downloads
 
 ___
-[<img src="assets/dlappteka.png" alt="Get it on Appteka" height="80">](https://appteka.store/profile/507368)
+[<img src="https://tvisia.ru/assets/dlappteka.png" alt="Get it on Appteka" height="80">](https://appteka.store/profile/507368)
 [<img src="assets/dlaptoide.png" alt="Get it on Aptoide" height="80">](https://en.aptoide.com/)
 [<img src="assets/dlgithub.png" alt="Get it on GitHub" height="80">](https://github.com/TVISIA/apk)
 [<img src="assets/dlfdroid.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/de/packages/)
