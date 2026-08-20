@@ -35,6 +35,7 @@ Offizielle Version [hier](https://virustotal.com) herunterladen
 ___
 [<img src="/assets/img/stores/dlappteka.png" alt="Get it on Appteka" width="180">](https://appteka.store/profile/507368)
 [<img src="/assets/img/stores/dlaptoide.png" alt="Get it on Aptoide" width="170">](https://en.aptoide.com/)
+[<img src="/assets/img/stores//dlapkpure.png" alt="Get it on APKPure" width="180">](https://www.apkpure.com)
 [<img src="/assets/img/stores/dlgithub.png" alt="Get it on GitHub" width="180">](https://github.com/TVISIA/apk)
 [<img src="/assets/img/stores//dlfdroid.png" alt="Get it on F-Droid" width="180">](https://f-droid.org/de/packages/)
 [<img src="/assets/img/stores//dlgoogleplay.png" alt="Get it on Google Play" width="180">](https://play.google.com)
