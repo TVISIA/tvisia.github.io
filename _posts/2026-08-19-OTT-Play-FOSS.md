@@ -3,9 +3,7 @@ title: OTT-Play FOSS
 category: [apps, IPTV & Video]
 tag: [xtream, stalker]
 ---
-<blockquote>
-                <p>
-                </p>
+
               <h2>
                   <a href="https://ottp.eu.org/apk" target="_blank">                  letzte EXO Version 
 </a>
@@ -14,9 +12,8 @@ tag: [xtream, stalker]
 </code>
                 </h2>
                 <a href="#aftv">                AFTV Code 
-</a>
-                :
-                <code>                890264
+                </a>
+                <code>890264
 </code>
                 <h2>
                   <a href="https://ottp.eu.org/apk-vlc" target="_blank">                  die neueste VLC-Version
@@ -27,8 +24,7 @@ tag: [xtream, stalker]
                 </h2>
                 <a href="#aftv">                AFTV Code 
 </a>
-                :
-                <code>                439681
+                <code> 439681
 </code>
                 <p>
                 </p>
