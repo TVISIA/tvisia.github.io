@@ -33,12 +33,12 @@ Offizielle Version [hier](https://virustotal.com) herunterladen
 ![Amazon Appstore](/assets/img/dlamazonappstore_20240512070955.png){: width="200"}
 
 ___
-[<img src="/assets/img/stores/dlappteka.png" alt="Get it on Appteka" height="80">](https://appteka.store/profile/507368)
-[<img src="/assets/img/stores/dlaptoide.png" alt="Get it on Aptoide" height="80">](https://en.aptoide.com/)
-[<img src="/assets/img/stores/dlgithub.png" alt="Get it on GitHub" height="80">](https://github.com/TVISIA/apk)
-[<img src="/assets/img/stores//dlfdroid.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/de/packages/)
-[<img src="/assets/img/stores//dlgithub.png" alt="Get it on Google Play" height="80">](https://play.google.com)
-[<img src="/assets/img/stores//dlfdroid.png" alt="Get it on Amazon Appstore" height="80">](https://www.amazon.de)
+[<img src="/assets/img/stores/dlappteka.png" alt="Get it on Appteka" width="180">](https://appteka.store/profile/507368)
+[<img src="/assets/img/stores/dlaptoide.png" alt="Get it on Aptoide" width="180">](https://en.aptoide.com/)
+[<img src="/assets/img/stores/dlgithub.png" alt="Get it on GitHub" width="180">](https://github.com/TVISIA/apk)
+[<img src="/assets/img/stores//dlfdroid.png" alt="Get it on F-Droid" width="180">](https://f-droid.org/de/packages/)
+[<img src="/assets/img/stores//dlgithub.png" alt="Get it on Google Play" width="180">](https://play.google.com)
+[<img src="/assets/img/stores//dlfdroid.png" alt="Get it on Amazon Appstore" width="180">](https://www.amazon.de)
 ___
 
 > Informationen 
