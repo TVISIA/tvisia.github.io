@@ -9,16 +9,13 @@ order: 5
 ### X (Twitter)
 ### Facebook 
 ___
-smarttube 
-[<img src="images/badge_fdroid.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/app.smarttube.fdroid/)
-[<img src="images/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/yuliskov/SmartTube/releases)
-___
-[<img src="assets/dlappteka.png" alt="Get it on Appteka" height="80">](https://appteka.store/profile/507368)
-[<img src="assets/dlaptoide.png" alt="Get it on Aptoide" height="80">](https://en.aptoide.com/)
-[<img src="assets/dlgithub.png" alt="Get it on GitHub" height="80">](https://github.com/TVISIA/apk)
-[<img src="assets/dlfdroid.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/de/packages/)
-[<img src="assets/dlgithub.png" alt="Get it on Google Play" height="80">](https://play.google.com)
-[<img src="assets/dlfdroid.png" alt="Get it on Amazon Appstore" height="80">](https://www.amazon.de)
+[<img src="/assets/img/stores/dlappteka.png" alt="Get it on Appteka" width="180">](https://appteka.store/profile/507368)
+[<img src="/assets/img/stores/dlaptoide.png" alt="Get it on Aptoide" width="170">](https://en.aptoide.com/)
+[<img src="/assets/img/stores/dlapkpure.png" alt="Get it on APKPure" width="180">](https://www.apkpure.com)
+[<img src="/assets/img/stores/dlgithub.png" alt="Get it on GitHub" width="180">](https://github.com/TVISIA/apk)
+[<img src="/assets/img/stores/dlfdroid.png" alt="Get it on F-Droid" width="180">](https://f-droid.org/de/packages/)
+[<img src="/assets/img/stores/dlgoogleplay.png" alt="Get it on Google Play" width="180">](https://play.google.com)
+[<img src="/assets/img/stores/dlamazonappstore.png" alt="Get it on Amazon Appstore" width="180">](https://www.amazon.de)
 ___
 
 
