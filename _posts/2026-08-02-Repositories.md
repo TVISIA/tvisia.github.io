@@ -1,7 +1,7 @@
 ---
 title: Repositories
 date: 2026-08-02 08:14:30 
-categories: [KODI, Repositories]
+categories: [Apps, KODI]
 tags: [kodi, xbmc, omega, 21, fire tv stick]     # TAG names should always be lowercase
 ---
 
