@@ -50,6 +50,54 @@ function hello() {
 **Emoji Support:**
 :+1: :sparkles: :camel: :tada: :rocket:
 ___
+## unordered List 
+
+* unordered list
+  + sub-item 1
+  + sub-item 2
+    - sub-sub-item 1
+    - sub-sub-item
+    -
+___
+## Task List 
+
+- [ ] Task 1
+- [x] Task 2
+___
+## Caption
+
+[This text is smallcaps]{.smallcaps}
+[This text is underlined]{.underline}
+[This text is highlighted]{.mark}
+
+___
+## Blocks
+
+:::{.callout-note}
+Note that there are five types of callouts, including: 
+`note`, `tip`, `warning`, `caution`, and `important`.
+:::
+
+:::{.callout-tip}
+Note that there are five types of callouts, including: 
+`note`, `tip`, `warning`, `caution`, and `important`.
+:::
+
+:::{.callout-warning}
+Note that there are five types of callouts, including: 
+`note`, `tip`, `warning`, `caution`, and `important`.
+:::
+
+:::{.callout-caution}
+Note that there are five types of callouts, including: 
+`note`, `tip`, `warning`, `caution`, and `important`.
+:::
+
+:::{.callout-important}
+Vor der Installation scanne jede heruntergelade APK-Datei auf Viren & schädlichen Code mit dem Online Anti-Virus Dienst VirusTotal. : 
+`note`, `tip`, `warning`, `caution`, and `important`.
+:::
+___
 
 X
 <i class="fa-brands fa-x-twitter"><<a href="https://www.x.com"></a>/i>
