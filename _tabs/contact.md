@@ -47,13 +47,13 @@ ___
 ## GitHub Tasks
 
 Markdown
-**GitHub Task Lists:**
+**GitHub Task Lists**
 - [x] @mentions and ~~tags~~ supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-**GitHub Tables:**
+**GitHub Tables**
 
 | First Header | Second Header |
 | ------------ | ------------- |
@@ -61,9 +61,9 @@ Markdown
 | Content Cell | Content Cell  |
 
 **Downloader Code**
-```12345
+``` 
+12345
 ```
-
 ___
 ## unordered List 
 
@@ -93,7 +93,7 @@ Note that there are five types of callouts, including:
 `note`, `tip`, `warning`, `caution`, and `important`.
 :::
 
-:::{.callout-tip}
+:::{.prompt-tip}
 Note that there are five types of callouts, including: 
 `note`, `tip`, `warning`, `caution`, and `important`.
 :::
@@ -103,12 +103,12 @@ Note that there are five types of callouts, including:
 `note`, `tip`, `warning`, `caution`, and `important`.
 :::
 
-:::{.callout-caution}
+:::{.prompt-caution}
 Note that there are five types of callouts, including: 
 `note`, `tip`, `warning`, `caution`, and `important`.
 :::
 
-:::{.callout-important}
+:::{.prompt-important}
 Vor der Installation scanne jede heruntergelade APK-Datei auf Viren & schädlichen Code mit dem Online Anti-Virus Dienst VirusTotal. : 
 `note`, `tip`, `warning`, `caution`, and `important`.
 :::
