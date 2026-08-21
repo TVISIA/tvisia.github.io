@@ -202,7 +202,7 @@ ___
 {: .prompt-info }
 
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
-{: .prompt-error }
+{: .prompt-caution }
 
 > [!NOTE]
 > I want the readers to read it carefully as it contains many important docs.
@@ -235,45 +235,3 @@ ___
 
 </div>
 
-::: note
-This is a note container
-Multiple lines supported
-:::
-
-::: warning
-Warning container
-With multiple lines
-:::
-
-::: danger
-Danger container
-Important warning
-:::
-
-::: info
-Information container
-With details
-:::
-
-> **💡 Tip:** Special tip callout
-> With multiple lines
-
-> **⚠️ Warning:** Warning callout
-> With details
-Rendered output:
-This is a note container Multiple lines supported
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
