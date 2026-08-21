@@ -124,59 +124,53 @@ ___
 * 
 ___
 
-___
-
-X
-<i class="fa-brands fa-x-twitter"><<a href="https://www.x.com"></a>/i>
-
-X / Twitter 
-
 <a href="https://www.x.com" target="_blank" rel="noopener">
   <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
 </a>
 
-telegram 
 <a href="https://www.telegram.com" target="_blank" rel="noopener">
   <i class="fa-brands fa-telegram" aria-hidden="true"></i>
 </a>
 
-Telegram 
-<i class="fa-brands fa-telegram"><a href="https://www.telegram.com"></a></i>
+<a href="https://www.github.com" target="_blank" rel="noopener">
+  <i class="fa-brands fa-github" aria-hidden="true"></i>
+</a>
 
-GitHub
-<i class="fa-brands fa-github">g<a href="https://www.github.com"></a>hub</i>
+<a href="https://www.amazon.com" target="_blank" rel="noopener">
+  <i class="fa-brands fa-amazon" aria-hidden="true"></i>
+</a>
 
-Amazon
-<i class="fa-brands fa-amazon"><a href="https://www.amazon.com"></a></i>
+<a href="https://www.google.com" target="_blank" rel="noopener">
+  <i class="fa-brands fa-google" aria-hidden="true"></i>
+  </a>
+  
+<a href="https://www.facebook.com" target="_blank" rel="noopener">
+  <i class="fa-brands fa-facebook" aria-hidden="true"></i>
+</a>
 
-Google 
-<i class="fa-brands fa-google"><a href="https://www.google.com"></a></i>
+<a href="https://www.youtube.com" target="_blank" rel="noopener">
+  <i class="fa-brands fa-youtube" aria-hidden="true"></i>
+</a>
 
-Facebook
-<i class="fa-brands fa-facebook"><a href="https://www.facebook.com"></a></i>
+<a href="https://www.pinterest.com" target="_blank" rel="noopener">
+  <i class="fa-brands fa-pinterest" aria-hidden="true"></i>
+</a>
 
-YouTube
-<i class="fa-brands fa-youtube"><a href="https://m.youtube.com"></a></i>
+<a href="https://www.whatsapp.com" target="_blank" rel="noopener">
+  <i class="fa-brands fa-whatsapp" aria-hidden="true"></i>
+</a>
 
-Android 
-<i class="fa-brands fa-android"></i>
+<a href="https://www.spotify.com" target="_blank" rel="noopener">
+  <i class="fa-brands fa-spotify" aria-hidden="true"></i>
+</a>
 
-Google Play 
-<i class="fa-brands fa-google-play"><a href="https://play.google.com"></a></i>
-
-Pinterest 
-<i class="fa-brands fa-pinterest"><a href="https://www.pinterest.com"></a></i>
-
-WhatsApp 
-<i class="fa-brands fa-whatsapp"><a href="https://www.whatsapp.com"></a></i>
+<a href="https://www.xmpp.com" target="_blank" rel="noopener">
+  <i class="fa-brands fa-xmpp" aria-hidden="true"></i>
+</a>
 
 Signal 
 <i class="fa-brands fa-signal-messenger"><a href="https://www.signal.de"></a></i>
-
-XMPP /Jabber 
-<i class="fa-brands fa-xmpp"><a href="https://www.xmpp.com"></a> </i>
-
-<wa-icon name="x-twitter" family="brands"></wa-icon>
+___
 
 > Überprüfe jede heruntergeladene APK-Datei mit `VirusTotal` auf schädlichen Code. 
 {: .prompt-info }
