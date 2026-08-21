@@ -203,6 +203,10 @@ ___
 
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
 {: .prompt-caution }
+
+> [!NOTE]
+> I want the readers to read it carefully as it contains many important docs.
+
 ___
 ![Appteka](https://raw.githubusercontent.com/TVISIA/tvisia.github.io/refs/heads/main/assets/img/dlappteka_20240512185130.png){: width="200"}
 ![APKPure](/assets/img/dlapkpure2_20240512183756.png){: width="200"}
