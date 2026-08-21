@@ -10,10 +10,10 @@ Support
 ___
 # Markdown Editor Online - Free Live Preview 🚀
 
-Welcome to **MarkdownLivePreview.dev** - the best **online markdown editor** with live preview! **Edit markdown online** for free with our powerful **markdown editor online** featuring real-time preview, LaTeX support, and advanced tools. Perfect for developers, writers, and technical documentation. No signup required - start using our **free online markdown editor** instantly!
+Welcome to **TVISIA.RU** - the best **online markdown editor** with live preview! **Edit markdown online** for free with our powerful **markdown editor online** featuring real-time preview, LaTeX support, and advanced tools. Perfect for developers, writers, and technical documentation. No signup required - start using our **free online markdown editor** instantly!
 
-[![Made by TVISIA](https://img.shields.io/badge/Made%20by-DigitalPro-blue)](https://tvisia.ru)
-![Version](https://img.shields.io/badge/Version-1.0.2-blue)
+[![Made by TVISIA](https://tvisia.ru/assets/img/tvlogo.png)](https://tvisia.ru)
+![Version](https://tvisia.ru/assets/img/tvlogo.png)
 
 ## Why Choose Our Online Markdown Editor?
 
@@ -79,7 +79,7 @@ Need an **online markdown viewer**? Our **markdown online viewer** gives you ins
 ```markdown
 # My Project Documentation
 
-Welcome to my project! This README was created using **MarkdownLivePreview.dev**.
+Welcome to my project! This README was created using **TVISIA.RU**.
 
 ## Quick Setup
 1. Clone the repository
@@ -106,7 +106,7 @@ Visit [tvisia.ru](/) for secure apps.
 
 ## Master Markdown Syntax with Our Cheat Sheet
 
-Learn **markdown** quickly with our comprehensive [markdown cheat sheet](/cheatsheet). Whether you're new to **markdown syntax** or need a quick reference, our **cheat sheet** covers everything from basic formatting to advanced features.
+Learn **markdown** quickly with our comprehensive [markdown cheat sheet](/posts/). Whether you're new to **markdown syntax** or need a quick reference, our **cheat sheet** covers everything from basic formatting to advanced features.
 
 **Essential markdown syntax examples**:
 - **Headers**: `# Heading 1`, `## Heading 2`
@@ -122,7 +122,7 @@ Learn **markdown** quickly with our comprehensive [markdown cheat sheet](/cheats
 - Nested lists and formatting
 - **Markdown footnotes** for references
 
-> **Bookmark this**: Our [markdown cheat sheet](/cheatsheet) is your complete **markdown guide**!
+> **Bookmark this**: Our [markdown cheat sheet](/posts/) is your complete **markdown guide**!
 
 ## Markdown Table Generator - Create Tables Effortlessly
 
@@ -183,7 +183,7 @@ Write a message  [RTF to Markdown converter](/tabs/contact.md). Convert RTF file
 
 ## Generate Links with Markdown Link Generator
 
-Format links effortlessly with our [Markdown link generator](/tools/link-generator). Ideal for creating clean, professional links in READMEs and documentation.
+Format links effortlessly with our [Markdown link generator](/posts/). Ideal for creating clean, professional links in READMEs and documentation.
 
 ### About 
 
@@ -414,7 +414,7 @@ Add references for clarity:
 
 This editor is a game-changer[^1].
 
-[^1]: Built by [DigitalPro](https://tvisia.ru).
+[^1]: Built by [TVISIA](https://tvisia.ru).
 
 > **Tip**: Use footnotes to keep content clean.
 
@@ -428,13 +428,13 @@ Enhance your **markdown** workflow with our comprehensive [tools suite](/archive
 - **[List Generator](/posts/)**: Build ordered, unordered, and nested **lists in markdown**
 
 **🔄 Conversion & Export Tools**:
-- **[Markdown to HTML Converter](/tools/html-converter)**: Transform **markdown to HTML** instantly
-- **[Markdown to PDF Converter](/tools/markdown-to-pdf)**: Export **markdown to PDF** with formatting
-- **[Markdown to Word Converter](/tools/markdown-to-word)**: Convert **markdown to Word** documents
-- **[RTF to Markdown Converter](/tools/rtf-to-markdown)**: **Convert to markdown** from RTF files
+- **[Markdown to HTML Converter](/posts/)**: Transform **markdown to HTML** instantly
+- **[Markdown to PDF Converter](/posts/)**: Export **markdown to PDF** with formatting
+- **[Markdown to Word Converter](/posts/)**: Convert **markdown to Word** documents
+- **[RTF to Markdown Converter](/posts/)**: **Convert to markdown** from RTF files
 
 **✨ Formatting & Enhancement Tools**:
-- **[Markdown Formatter](/tools/markdown-formatter)**: Beautify and standardize **markdown syntax**
+- **[Markdown Formatter](/posts/)**: Beautify and standardize **markdown syntax**
 - **[Link Generator](/posts/)**: Create perfect **links in markdown** format
 
 ---
@@ -468,7 +468,7 @@ Begin creating professional documentation with **TVISIA.RU** - the best **free o
 
 **Get Started**:
 - 🚀 **[Edit Markdown Online](#)** - Start typing in the editor above
-- 📖 **[Markdown Cheat Sheet](/posts)** - Master **markdown syntax** quickly
+- 📖 **[Markdown Cheat Sheet](/posts/)** - Master **markdown syntax** quickly
 - 🛠️ **[posts Suite](/posts/)** - **Markdown table generator**, converters, and more
 - 💡 **[Archives](/archives/)** - **Markdown** inspiration and templates
 
