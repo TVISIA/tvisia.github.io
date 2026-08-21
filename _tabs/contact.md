@@ -199,10 +199,10 @@ ___
 {: .prompt-tip }
 
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
-{: .prompt-important }
+{: .prompt-info }
 
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
-{: .prompt-caution }
+{: .prompt-error }
 
 > [!NOTE]
 > I want the readers to read it carefully as it contains many important docs.
