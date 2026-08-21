@@ -80,23 +80,23 @@ _Scientific names_ are often italicized: _Homo sapiens_
 *Multi-word italic phrases* work perfectly.
 ___
 **Basic Links:**
-[Link text](https://markdownlivepreview.dev)
-[Link with title](https://markdownlivepreview.dev "MarkdownLivePreview.dev")
+[Link text](https://tvisia.ru)
+[Link with title](https://tvisia.ru "TVISIA.RU")
 
 **Reference Links:**
 [Reference link][ref1]
 [Another reference][ref2]
 
-[ref1]: https://markdownlivepreview.dev "Reference 1"
-[ref2]: https://markdownlivepreview.dev "Reference 2"
+[ref1]: https://tvisia.ru "Reference 1"
+[ref2]: https://tvisia.ru "Reference 2"
 
 **Auto Links:**
-<https://markdownlivepreview.dev>
-<hello@markdownlivepreview.dev>
+<https://tvisia.ru>
+<admin@tvisia.ru>
 
 **Internal Links:**
-[Examples page](/examples)
-[Cheat sheet](/cheatsheet)
+[Examples page](/)
+[Cheat sheet](/)
 ___
 # Header Level 1
 ## Header Level 2  
@@ -113,7 +113,7 @@ Header 2
 --------
 
 **Headers with Links:**
-## [Linked Header](/examples)
+## [Linked Header](/)
 
 **Headers with Emphasis:**
 ## **Bold Header**
