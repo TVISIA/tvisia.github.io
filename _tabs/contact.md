@@ -18,11 +18,38 @@ order: 5
 [<img src="/assets/img/stores/dlgoogleplay.png" alt="Get it on Google Play" width="180">](https://play.google.com)
 [<img src="/assets/img/stores/dlamazonappstore.png" alt="Get it on Amazon Appstore" width="180">](https://www.amazon.de)
 ___
+## Badges
 ![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
 ![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/coverage-95%25-orange)
 ![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github)
+___
+## GitHub Tasks
+
+Markdown
+**GitHub Task Lists:**
+- [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+**GitHub Tables:**
+| First Header | Second Header |
+| ------------ | ------------- |
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
+
+**Syntax Highlighting:**
+```javascript
+function hello() {
+  console.log("Hello GitHub!");
+}
+```
+
+**Emoji Support:**
+:+1: :sparkles: :camel: :tada: :rocket:
+___
 
 X
 <i class="fa-brands fa-x-twitter"><<a href="https://www.x.com"></a>/i>
