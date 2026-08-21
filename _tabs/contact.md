@@ -192,7 +192,7 @@ ___
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
 {: .prompt-warning }
 ___
-> Erstelle eigene Kurzlinks mit `AFTV.NEWS` und öffne sie einfach per 5-stelligen Zifferncode mit der Downloader App.
+> <i class="fa-brands fa-telegram"><a href="https://t.me/tvisiaru"></a></i> Besuche uns auf Telegram! 
 {: .prompt-note}
 ___
 ![Appteka](https://raw.githubusercontent.com/TVISIA/tvisia.github.io/refs/heads/main/assets/img/dlappteka_20240512185130.png){: width="200"}
