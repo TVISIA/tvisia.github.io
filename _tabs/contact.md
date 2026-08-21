@@ -111,6 +111,16 @@ ___
 ___
 ## 
 
+A claim.[^1]
+
+[^1]: The source.
+
+___
+
+```ts
+const ready = true
+```
+___
 > ▲ **WARNING:** You can use emojis in blockquotes
 > You can even nest the blockquotes
 >
