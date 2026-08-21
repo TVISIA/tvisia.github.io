@@ -9,6 +9,24 @@ order: 5
 ### X (Twitter)
 ### Facebook 
 
+> Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
+{: .prompt-warning }
+___
+> Erstelle eigene Kurzlinks mit `AFTV.NEWS` und öffne sie einfach per 5-stelligen Zifferncode mit der Downloader App.
+{: .prompt-error}
+___
+> Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
+{: .prompt-note }
+___
+> Erstelle eigene Kurzlinks mit `AFTV.NEWS` und öffne sie einfach per 5-stelligen Zifferncode mit der Downloader App.
+{: .prompt-tip}
+___
+> Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
+{: .prompt-caution}
+___
+> Erstelle eigene Kurzlinks mit `AFTV.NEWS` und öffne sie einfach per 5-stelligen Zifferncode mit der Downloader App.
+{: .prompt-important}
+___
 
 [<img src="/assets/img/stores/dlappteka.png" alt="Get it on Appteka" width="180">](https://appteka.store/profile/507368)
 [<img src="/assets/img/stores/dlaptoide.png" alt="Get it on Aptoide" width="170">](https://en.aptoide.com/)
@@ -36,20 +54,16 @@ Markdown
 - [ ] this is an incomplete item
 
 **GitHub Tables:**
+
 | First Header | Second Header |
 | ------------ | ------------- |
 | Content Cell | Content Cell  |
 | Content Cell | Content Cell  |
 
-**Syntax Highlighting:**
-```javascript
-function hello() {
-  console.log("Hello GitHub!");
-}
+**Downloader Code**
+```12345
 ```
 
-**Emoji Support:**
-:+1: :sparkles: :camel: :tada: :rocket:
 ___
 ## unordered List 
 
@@ -84,7 +98,7 @@ Note that there are five types of callouts, including:
 `note`, `tip`, `warning`, `caution`, and `important`.
 :::
 
-:::{.callout-warning}
+:::{.prompt-warning}
 Note that there are five types of callouts, including: 
 `note`, `tip`, `warning`, `caution`, and `important`.
 :::
