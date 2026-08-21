@@ -1,5 +1,5 @@
 ---
 title: StreamVault
-category: [apps, IPTV & Video]
+category: [Apps, IPTV & Video]
 tag: [xtream, stalker]
 ---
