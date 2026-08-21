@@ -5,7 +5,7 @@ order: 4
 ---
 
 Support 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> Add Markdown syntax content to file `__tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
 ___
 # Markdown Editor Online - Free Live Preview 🚀
@@ -21,7 +21,7 @@ Our **markdown editor online** delivers the most powerful free editing experienc
 
 - **🚀 Live Preview**: Real-time **markdown live preview** as you type
 - **📁 File Upload**: Upload and edit existing .md files instantly  
-- **📊 Table Generator**: Built-in [markdown table generator](/posts/apps/) tool
+- **📊 Table Generator**: Built-in [markdown table generator](/__posts/Apps/) tool
 - **🔢 LaTeX Math**: Full LaTeX equation support with live rendering
 - **💾 Auto-Save**: Your work saves automatically to browser storage
 - **📱 Mobile Ready**: Perfect **web markdown editor** for all devices
@@ -47,7 +47,7 @@ Our **online markdown editor** is designed for maximum productivity and ease of 
 - **Syntax highlighting** - Beautiful code formatting
 - **Export options** - Save as HTML, PDF, or download .md files
 
-> **Tip**: Use our [tools suite](/posts/) for specialized **markdown** tasks like table generation!
+> **Tip**: Use our [tools suite](/_posts/) for specialized **markdown** tasks like table generation!
 
 ## Online Markdown Viewer & Editor
 
@@ -122,7 +122,7 @@ Learn **markdown** quickly with our comprehensive [markdown cheat sheet](/posts/
 - Nested lists and formatting
 - **Markdown footnotes** for references
 
-> **Bookmark this**: Our [markdown cheat sheet](/posts/) is your complete **markdown guide**!
+> **Bookmark this**: Our [markdown cheat sheet](/_posts/) is your complete **markdown guide**!
 
 ## Markdown Table Generator - Create Tables Effortlessly
 
@@ -142,11 +142,11 @@ Building **markdown tables** has never been easier! Our [markdown table generato
 | **Table Generator** | Visual table creation | Data presentation |
 | **Markdown Viewer** | File preview and validation | Content review |
 
-> **Pro Tip**: Master **markdown table** formatting with our [cheat sheet](/posts/) - includes advanced **table in markdown** techniques!
+> **Pro Tip**: Master **markdown table** formatting with our [cheat sheet](/_posts/) - includes advanced **table in markdown** techniques!
 
 ## Markdown to HTML Converter - Transform Your Content
 
-Convert **markdown to HTML** effortlessly with our [markdown to HTML converter](/posts/). Essential for web developers, bloggers, and content creators who need to transform **markdown files** into web-ready HTML.
+Convert **markdown to HTML** effortlessly with our [markdown to HTML converter](/_posts/). Essential for web developers, bloggers, and content creators who need to transform **markdown files** into web-ready HTML.
 
 **Key features of our markdown converter**:
 - Preserves **markdown formatting** in HTML output
@@ -159,7 +159,7 @@ Convert **markdown to HTML** effortlessly with our [markdown to HTML converter](
 **Markdown Input:**
 ```markdown
 # Welcome to My Project
-This is a **bold** paragraph with a [link to our tools](/posts/).
+This is a **bold** paragraph with a [link to our tools](/_posts/).
 
 ## Features
 - Easy **markdown** editing
@@ -169,7 +169,7 @@ This is a **bold** paragraph with a [link to our tools](/posts/).
 **HTML Output:**
 ```html
 <h1>Welcome to My Project</h1>
-<p>This is a <strong>bold</strong> paragraph with a <a href="/posts/">link to our tools</a>.</p>
+<p>This is a <strong>bold</strong> paragraph with a <a href="/_posts/">link to our tools</a>.</p>
 <h2>Features</h2>
 <ul>
   <li>Easy <strong>markdown</strong> editing</li>
@@ -179,19 +179,19 @@ This is a **bold** paragraph with a [link to our tools](/posts/).
 
 ## Contact 
 
-Write a message  [RTF to Markdown converter](/tabs/contact.md). Convert RTF files into Markdown for seamless integration into your workflows.
+Write a message  [RTF to Markdown converter](/_tabs/contact.md). Convert RTF files into Markdown for seamless integration into your workflows.
 
 ## Generate Links with Markdown Link Generator
 
-Format links effortlessly with our [Markdown link generator](/posts/). Ideal for creating clean, professional links in READMEs and documentation.
+Format links effortlessly with our [Markdown link generator](/_posts/). Ideal for creating clean, professional links in READMEs and documentation.
 
 ### About 
 
-- **Generated Link**: [About our project](#) *(created with our [link generator](/tabs/about.md))*
+- **Generated Link**: [About our project](#) *(created with our [link generator](/_tabs/about.md))*
 
 ## Create Nested Lists with List Generator
 
-Build ordered or nested lists with our [Markdown list generator](/tabs/about.md]. Perfect for organizing content in your Markdown files.
+Build ordered or nested lists with our [Markdown list generator](/_tabs/about.md]. Perfect for organizing content in your Markdown files.
 
 ### Example List
 
@@ -199,11 +199,11 @@ Build ordered or nested lists with our [Markdown list generator](/tabs/about.md]
   - [ ] To-do item
   - [x] Completed item
 
-> **Tip**: Try our [list generator](/tabs/about.md) for complex lists!
+> **Tip**: Try our [list generator](/_tabs/about.md) for complex lists!
 
 ## Markdown to PDF Converter - Professional Documents
 
-Transform your **markdown** content into professional PDFs with our [markdown to PDF converter](/tabs/about.md). Perfect for creating printable documentation, reports, and presentations from your **markdown files**.
+Transform your **markdown** content into professional PDFs with our [markdown to PDF converter](/_tabs/about.md). Perfect for creating printable documentation, reports, and presentations from your **markdown files**.
 
 **Benefits of markdown to PDF conversion**:
 - Preserve **markdown formatting** in PDF output
@@ -219,21 +219,21 @@ Transform your **markdown** content into professional PDFs with our [markdown to
 - Create printable versions of **markdown guides**
 - Archive **markdown content** in PDF format
 
-> **Pro Tip**: Combine our [markdown formatter](/tabs/about.md) with **PDF export** for perfectly styled documents!
+> **Pro Tip**: Combine our [markdown formatter](/_tabs/about.md) with **PDF export** for perfectly styled documents!
 
 ## Export Markdown to Word
 
-Convert your Markdown files to Word documents with our [Markdown to Word converter](/tabs/about.md). Ideal for professional editing, collaboration, or sharing with non-technical teams.
+Convert your Markdown files to Word documents with our [Markdown to Word converter](/_tabs/about.md). Ideal for professional editing, collaboration, or sharing with non-technical teams.
 
 ### Example Use Case
 
 Transform a Markdown technical guide into a Word document for stakeholder reviews or formal submissions.
 
-> **Tip**: Try our [Markdown to Word converter](/tabs/about.md) for easy collaboration!
+> **Tip**: Try our [Markdown to Word converter](/_tabs/about.md) for easy collaboration!
 
 ## Format Markdown with Markdown Formatter
 
-Ensure your Markdown follows best practices with our [Markdown formatter](/tabs/about.md). Automatically fix syntax, align tables, and beautify code blocks.
+Ensure your Markdown follows best practices with our [Markdown formatter](/_tabs/about.md). Automatically fix syntax, align tables, and beautify code blocks.
 
 ### Example Formatting
 
@@ -251,19 +251,19 @@ Ensure your Markdown follows best practices with our [Markdown formatter](/tabs/
 - Item 2
 ```
 
-> **Tip**: Beautify your Markdown with our [Markdown formatter](/tabs/about.md)!
+> **Tip**: Beautify your Markdown with our [Markdown formatter](/_tabs/about.md)!
 
 ## Generate a Table of Contents
 
-Add a table of contents to your Markdown files with our [Markdown TOC generator](/tabs/about.md]. Perfect for long documents or technical guides.
+Add a table of contents to your Markdown files with our [Markdown TOC generator](/_tabs/about.md]. Perfect for long documents or technical guides.
 
 ### Example TOC
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Conclusion](#conclusion)
+- [Introduction]()
+- [Features]()
+- [Conclusion]()
 
-> **Tip**: Enhance navigation with our [Markdown TOC generator](/tabs/about.md]!
+> **Tip**: Enhance navigation with our [Markdown TOC generator](/_tabs/about.md]!
 
 ## Showcase Code, Math, and More
 
@@ -323,9 +323,9 @@ $$
 ### Getting Started Guide
 
 1. **Edit Markdown Online**: Type in the editor and see a **live Markdown preview**.
-2. **Use Tools**: Access our [tools suite](/posts/) for tables, links, and more.
-3. **Learn Syntax**: Master Markdown with our [cheat sheet](/posts/).
-4. **Explore Examples**: Get inspired by our [example gallery](/posts/).
+2. **Use Tools**: Access our [App Section ](/_posts/) for tables, links, and more.
+3. **Learn Syntax**: Master Markdown with our [Posts ](/_posts/).
+4. **Explore Examples**: Get inspired by our [example gallery](/_posts/).
 
 ### API Documentation Example
 
@@ -351,7 +351,7 @@ Speed up your workflow:
 - **Links**: `Ctrl/Cmd + K`
 - **Code**: `Ctrl/Cmd + E`
 
-> **Tip**: Use our [link generator](/posts/Apps/) with shortcuts for fast linking!
+> **Tip**: Use our [link generator](/_posts/Apps/) with shortcuts for fast linking!
 
 ### Adding Links & Images
 
@@ -423,19 +423,19 @@ This editor is a game-changer[^1].
 Enhance your **markdown** workflow with our comprehensive [archiv](/archives/). Each tool integrates seamlessly with our **markdown editor online** for maximum productivity:
 
 **📊 Table & Structure Tools**:
-- **[Markdown Table Generator](/posts/)**: Create professional **markdown tables** with live preview
-- **[TOC Generator](/posts/)**: Generate **markdown table of contents** automatically
-- **[List Generator](/posts/)**: Build ordered, unordered, and nested **lists in markdown**
+- **[Markdown Table Generator](/_posts/)**: Create professional **markdown tables** with live preview
+- **[TOC Generator](/_posts/)**: Generate **markdown table of contents** automatically
+- **[List Generator](/_posts/)**: Build ordered, unordered, and nested **lists in markdown**
 
 **🔄 Conversion & Export Tools**:
-- **[Markdown to HTML Converter](/posts/)**: Transform **markdown to HTML** instantly
-- **[Markdown to PDF Converter](/posts/)**: Export **markdown to PDF** with formatting
-- **[Markdown to Word Converter](/posts/)**: Convert **markdown to Word** documents
-- **[RTF to Markdown Converter](/posts/)**: **Convert to markdown** from RTF files
+- **[Markdown to HTML Converter](/_posts/)**: Transform **markdown to HTML** instantly
+- **[Markdown to PDF Converter](/_posts/)**: Export **markdown to PDF** with formatting
+- **[Markdown to Word Converter](/_posts/)**: Convert **markdown to Word** documents
+- **[RTF to Markdown Converter](/_posts/)**: **Convert to markdown** from RTF files
 
 **✨ Formatting & Enhancement Tools**:
-- **[Markdown Formatter](/posts/)**: Beautify and standardize **markdown syntax**
-- **[Link Generator](/posts/)**: Create perfect **links in markdown** format
+- **[Markdown Formatter](/_posts/)**: Beautify and standardize **markdown syntax**
+- **[Link Generator](/_posts/)**: Create perfect **links in markdown** format
 
 ---
 
@@ -468,8 +468,8 @@ Begin creating professional documentation with **TVISIA.RU** - the best **free o
 
 **Get Started**:
 - 🚀 **[Edit Markdown Online](#)** - Start typing in the editor above
-- 📖 **[Markdown Cheat Sheet](/posts/)** - Master **markdown syntax** quickly
-- 🛠️ **[posts Suite](/posts/)** - **Markdown table generator**, converters, and more
+- 📖 **[Markdown Cheat Sheet](/_posts/)** - Master **markdown syntax** quickly
+- 🛠️ **[posts Suite](/_posts/)** - **Markdown table generator**, converters, and more
 - 💡 **[Archives](/archives/)** - **Markdown** inspiration and templates
 
 **Why choose our markdown editor online?**
