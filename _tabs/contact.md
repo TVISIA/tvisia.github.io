@@ -88,7 +88,7 @@ ___
 ___
 ## Blocks
 
-:::{.callout-note}
+:::{.prompt-note}
 Note that there are five types of callouts, including: 
 `note`, `tip`, `warning`, `caution`, and `important`.
 :::
