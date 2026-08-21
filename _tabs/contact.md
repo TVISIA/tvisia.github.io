@@ -425,14 +425,14 @@ Make any link standout more when applying the `.btn` class.
 [Light Outline Button](#){: .btn .btn--light-outline}
 
 ```markdown
-[Default Button Text](#link){: .btn}
-[Primary Button Text](#link){: .btn .btn--primary}
-[Success Button Text](#link){: .btn .btn--success}
-[Warning Button Text](#link){: .btn .btn--warning}
-[Danger Button Text](#link){: .btn .btn--danger}
-[Info Button Text](#link){: .btn .btn--info}
-[Inverse Button](#link){: .btn .btn--inverse}
-[Light Outline Button](#link){: .btn .btn--light-outline}
+[Default Button Text](https://tvisia.ru){: .btn}
+[Primary Button Text](https://tvisia.ru){: .btn .btn--primary}
+[Success Button Text](https://tvisia.ru){: .btn .btn--success}
+[Warning Button Text](https://tvisia.ru){: .btn .btn--warning}
+[Danger Button Text](https://tvisia.ru){: .btn .btn--danger}
+[Info Button Text](https://tvisia.ru){: .btn .btn--info}
+[Inverse Button](https://tvisia.ru){: .btn .btn--inverse}
+[Light Outline Button](https://tvisia.ru){: .btn .btn--light-outline}
 ```
 
 [X-Large Button](#){: .btn .btn--primary .btn--x-large}
@@ -441,10 +441,10 @@ Make any link standout more when applying the `.btn` class.
 [Small Button](#){: .btn .btn--primary .btn--small}
 
 ```markdown
-[X-Large Button](#link){: .btn .btn--primary .btn--x-large}
-[Large Button](#link){: .btn .btn--primary .btn--large}
-[Default Button](#link){: .btn .btn--primary }
-[Small Button](#link){: .btn .btn--primary .btn--small}
+[X-Large Button](https://tvisia.ru){: .btn .btn--primary .btn--x-large}
+[Large Button](https://tvisia.ru){: .btn .btn--primary .btn--large}
+[Default Button](https://tvisia.ru){: .btn .btn--primary }
+[Small Button](https://tvisia.ru){: .btn .btn--primary .btn--small}
 ```
 
 ## Notices
@@ -545,7 +545,7 @@ This allows you to denote <var>variables</var>.
 
 <a href="#" class="btn--success">Success Button</a>
 
-[X-Large Button](#link){: .btn .btn--primary .btn--x-large}
-[Large Button](#link){: .btn .btn--primary .btn--large}
-[Default Button](#link){: .btn .btn--primary }
-[Small Button](#link){: .btn .btn--primary .btn--small}
+[X-Large Button](https://tvisia.ru){: .btn .btn--primary .btn--x-large}
+[Large Button](https://tvisia.ru){: .btn .btn--primary .btn--large}
+[Default Button](https://tvisia.ru){: .btn .btn--primary }
+[Small Button](https://tvisia.ru){: .btn .btn--primary .btn--small}
