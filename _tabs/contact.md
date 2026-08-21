@@ -405,6 +405,7 @@ Do It Live
     Date of birth: <input type="text" size="10">
   </fieldset>
 </form>
+<a href="#" class="btn--success">Success Button</a>
 
 ## Buttons
 
