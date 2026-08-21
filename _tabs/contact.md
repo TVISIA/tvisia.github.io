@@ -19,6 +19,7 @@ order: 5
 [<img src="/assets/img/stores/dlamazonappstore.png" alt="Get it on Amazon Appstore" width="180">](https://www.amazon.de)
 ___
 ## Badges
+
 ![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
 ![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
@@ -29,7 +30,7 @@ ___
 
 Markdown
 **GitHub Task Lists:**
-- [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
+- [x] @mentions and ~~tags~~ supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
@@ -111,20 +112,11 @@ ___
 ___
 ## 
 
-A claim.[^1]
+___
 
-[^1]: The source.
 
 ___
 
-```ts
-const ready = true
-```
-___
-> ▲ **WARNING:** You can use emojis in blockquotes
-> You can even nest the blockquotes
->
->> ▲ **WARNING:** This blockquote is nested!
 ___
 
 X
