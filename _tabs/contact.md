@@ -194,6 +194,15 @@ ___
 ___
 > <i class="fa-brands fa-telegram"><a href="https://t.me/tvisiaru"></a></i> Besuche uns auf Telegram! 
 {: .prompt-note}
+
+> Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
+{: .prompt-tip }
+
+> Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
+{: .prompt-important }
+
+> Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
+{: .prompt-caution }
 ___
 ![Appteka](https://raw.githubusercontent.com/TVISIA/tvisia.github.io/refs/heads/main/assets/img/dlappteka_20240512185130.png){: width="200"}
 ![APKPure](/assets/img/dlapkpure2_20240512183756.png){: width="200"}
