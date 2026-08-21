@@ -193,7 +193,7 @@ ___
 {: .prompt-warning }
 ___
 > <i class="fa-brands fa-telegram"><a href="https://t.me/tvisiaru"></a></i> Besuche uns auf Telegram! 
-{: .prompt-note}
+{: .prompt-success}
 
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
 {: .prompt-tip }
@@ -202,7 +202,7 @@ ___
 {: .prompt-info }
 
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
-{: .prompt-important }
+{: .prompt-error }
 
 > [!NOTE]
 > I want the readers to read it carefully as it contains many important docs.
