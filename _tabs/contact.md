@@ -174,17 +174,18 @@ ___
 
 > Überprüfe jede heruntergeladene APK-Datei mit `VirusTotal` auf schädlichen Code. 
 {: .prompt-info }
+
 ___
 **Downloader Code**
 ~~~~ 
-12345
+12347
 ~~~~ 
 
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
 {: .prompt-warning }
 ___
 > <i class="fa-brands fa-telegram"><a href="https://t.me/tvisiaru"></a></i> Besuche uns auf Telegram! 
-{: .prompt-important}
+{: .prompt-important }
 
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
 {: .prompt-tip }
