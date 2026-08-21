@@ -53,7 +53,7 @@ Markdown
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-**GitHub Tables**
+**GitHub Tables** 
 
 | First Header | Second Header |
 | ------------ | ------------- |
@@ -88,30 +88,29 @@ ___
 ___
 ## Blocks
 
-:::{.prompt-note}
+{: .prompt-note}
 Note that there are five types of callouts, including: 
 `note`, `tip`, `warning`, `caution`, and `important`.
-:::
 
-:::{.prompt-tip}
+{: .prompt-tip}
 Note that there are five types of callouts, including: 
 `note`, `tip`, `warning`, `caution`, and `important`.
-:::
 
-:::{.prompt-warning}
+
+{: .prompt-warning}
 Note that there are five types of callouts, including: 
 `note`, `tip`, `warning`, `caution`, and `important`.
-:::
 
-:::{.prompt-caution}
+
+{: .prompt-caution}
 Note that there are five types of callouts, including: 
 `note`, `tip`, `warning`, `caution`, and `important`.
-:::
 
-:::{.prompt-important}
+
+{: .prompt-important}
 Vor der Installation scanne jede heruntergelade APK-Datei auf Viren & schädlichen Code mit dem Online Anti-Virus Dienst VirusTotal. : 
 `note`, `tip`, `warning`, `caution`, and `important`.
-:::
+
 ___
 ## Bullet List 
 
@@ -193,7 +192,7 @@ ___
 {: .prompt-warning }
 ___
 > <i class="fa-brands fa-telegram"><a href="https://t.me/tvisiaru"></a></i> Besuche uns auf Telegram! 
-{: .prompt-success}
+{: .prompt-important}
 
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
 {: .prompt-tip }
@@ -202,22 +201,7 @@ ___
 {: .prompt-info }
 
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
-{: .prompt-caution }
-
-> [!NOTE]
-> I want the readers to read it carefully as it contains many important docs.
-
-> [!TIP]
-> Use the command line to detect and resolve the errors!
-
-> [!WARNING]
-> DON'T DELETE THE `package.json` file!
-
-> [!CAUTION]
-> Don't execute the code without commenting the test 
-
-> [!IMPORTANT]  
-> Read the contribution guideline before adding a pull request.
+{: .prompt-note }
 
 ___
 ![Appteka](https://raw.githubusercontent.com/TVISIA/tvisia.github.io/refs/heads/main/assets/img/dlappteka_20240512185130.png){: width="200"}
