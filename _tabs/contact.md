@@ -139,7 +139,7 @@ telegram
 <a href="https://www.telegram.com" target="_blank" rel="noopener">
   <i class="fa-brands fa-telegram" aria-hidden="true"></i>
 </a>
-b
+
 Telegram 
 <i class="fa-brands fa-telegram"><a href="https://www.telegram.com"></a></i>
 
