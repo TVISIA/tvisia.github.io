@@ -13,19 +13,19 @@ order: 5
 {: .prompt-warning }
 ___
 > Erstelle eigene Kurzlinks mit `AFTV.NEWS` und öffne sie einfach per 5-stelligen Zifferncode mit der Downloader App.
-{: .prompt-default}
+{: .prompt-error }
 ___
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
 {: .prompt-success }
 ___
 > Erstelle eigene Kurzlinks mit `AFTV.NEWS` und öffne sie einfach per 5-stelligen Zifferncode mit der Downloader App.
-{: .alert-tip}
+{: .prompt-tip }
 ___
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
-{: .prompt-info}
+{: .prompt-note }
 ___
 > Erstelle eigene Kurzlinks mit `AFTV.NEWS` und öffne sie einfach per 5-stelligen Zifferncode mit der Downloader App.
-{: .prompt-message}
+{: .prompt-warning }
 ___
 
 [<img src="/assets/img/stores/dlappteka.png" alt="Get it on Appteka" width="180">](https://appteka.store/profile/507368)
