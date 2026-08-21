@@ -185,7 +185,7 @@ ___
 {: .prompt-warning }
 ___
 > <i class="fa-brands fa-telegram"><a href="https://t.me/tvisiaru"></a></i> Besuche uns auf Telegram! 
-{: .prompt-important }
+{: .prompt-danger }
 
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
 {: .prompt-tip }
@@ -194,7 +194,7 @@ ___
 {: .prompt-info }
 
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
-{: .prompt-note }
+{: .prompt-caution }
 
 ___
 ![Appteka](https://raw.githubusercontent.com/TVISIA/tvisia.github.io/refs/heads/main/assets/img/dlappteka_20240512185130.png){: width="200"}
