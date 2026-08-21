@@ -234,3 +234,32 @@ ___
 ✅ **Export options** - **Markdown to PDF**, HTML, Word, and more
 
 </div>
+
+:::note
+This is a note container
+Multiple lines supported
+:::
+
+:::warning
+Warning container
+With multiple lines
+:::
+
+:::danger
+Danger container
+Important warning
+:::
+
+:::info
+Information container
+With details
+:::
+
+> **💡 Tip:** Special tip callout
+> With multiple lines
+
+> **⚠️ Warning:** Warning callout
+> With details
+Rendered output:
+This is a note container Multiple lines supported
+
