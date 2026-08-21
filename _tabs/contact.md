@@ -235,22 +235,22 @@ ___
 
 </div>
 
-:::note
+::: note
 This is a note container
 Multiple lines supported
 :::
 
-:::warning
+::: warning
 Warning container
 With multiple lines
 :::
 
-:::danger
+::: danger
 Danger container
 Important warning
 :::
 
-:::info
+::: info
 Information container
 With details
 :::
