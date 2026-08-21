@@ -193,7 +193,7 @@ ___
 {: .prompt-warning }
 ___
 > Erstelle eigene Kurzlinks mit `AFTV.NEWS` und öffne sie einfach per 5-stelligen Zifferncode mit der Downloader App.
-{: .prompt-error}
+{: .prompt-info}
 ___
 ![Appteka](https://raw.githubusercontent.com/TVISIA/tvisia.github.io/refs/heads/main/assets/img/dlappteka_20240512185130.png){: width="200"}
 ![APKPure](/assets/img/dlapkpure2_20240512183756.png){: width="200"}
