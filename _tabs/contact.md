@@ -98,6 +98,24 @@ Vor der Installation scanne jede heruntergelade APK-Datei auf Viren & schädlich
 `note`, `tip`, `warning`, `caution`, and `important`.
 :::
 ___
+## Bullet List 
+
+**Bullet Points**
+
+* Bullet Point 1
+
+* Bullet Point 2
+
+* Bullet Point 3
+* 
+___
+## 
+
+> ▲ **WARNING:** You can use emojis in blockquotes
+> You can even nest the blockquotes
+>
+>> ▲ **WARNING:** This blockquote is nested!
+___
 
 X
 <i class="fa-brands fa-x-twitter"><<a href="https://www.x.com"></a>/i>
