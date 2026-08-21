@@ -18,6 +18,7 @@ order: 5
 [<img src="/assets/img/stores/dlgoogleplay.png" alt="Get it on Google Play" width="180">](https://play.google.com)
 [<img src="/assets/img/stores/dlamazonappstore.png" alt="Get it on Amazon Appstore" width="180">](https://www.amazon.de)
 ___
+![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
 
 
 X
