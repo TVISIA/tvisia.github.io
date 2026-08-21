@@ -135,11 +135,11 @@ X / Twitter
   <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
 </a>
 
-telegram
+telegram 
 <a href="https://www.telegram.com" target="_blank" rel="noopener">
   <i class="fa-brands fa-telegram" aria-hidden="true"></i>
 </a>
-
+b
 Telegram 
 <i class="fa-brands fa-telegram"><a href="https://www.telegram.com"></a></i>
 
