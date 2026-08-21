@@ -207,6 +207,18 @@ ___
 > [!NOTE]
 > I want the readers to read it carefully as it contains many important docs.
 
+> [!TIP]
+> Use the command line to detect and resolve the errors!
+
+> [!WARNING]
+> DON'T DELETE THE `package.json` file!
+
+> [!CAUTION]
+> Don't execute the code without commenting the test 
+
+> [!IMPORTANT]  
+> Read the contribution guideline before adding a pull request.
+
 ___
 ![Appteka](https://raw.githubusercontent.com/TVISIA/tvisia.github.io/refs/heads/main/assets/img/dlappteka_20240512185130.png){: width="200"}
 ![APKPure](/assets/img/dlapkpure2_20240512183756.png){: width="200"}
