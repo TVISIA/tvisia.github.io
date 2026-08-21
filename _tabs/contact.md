@@ -202,7 +202,7 @@ ___
 {: .prompt-info }
 
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
-{: .prompt-error }
+{: .prompt-caution }
 
 > [!NOTE]
 > I want the readers to read it carefully as it contains many important docs.
