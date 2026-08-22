@@ -549,3 +549,9 @@ This allows you to denote <var>variables</var>.
 [Large Button](https://tvisia.ru){: .btn .btn--primary .btn--large}
 [Default Button](https://tvisia.ru){: .btn .btn--primary }
 [Small Button](https://tvisia.ru){: .btn .btn--primary .btn--small}
+
+<form action="mailto:example@domain.com" method="post" enctype="text/plain">
+<input type="text" name="Ihr Name">
+<input type="text" name="Adresse">
+<input type="submit" value="Abschicken">
+</form>
