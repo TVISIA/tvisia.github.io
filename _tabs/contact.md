@@ -507,7 +507,8 @@ This tag should denote <ins>inserted</ins> text.
 
 ### Keyboard Tag
 
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
+This scarcely known tag emulates <kbd>Einstellungen</kbd>,
+<kbd>Mein Fire TV</kbd> which is usually styled like the `<code>` tag.
 
 ### Preformatted Tag
 
