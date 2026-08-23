@@ -555,3 +555,5 @@ This allows you to denote <var>variables</var>.
 <input type="text" name="Adresse">
 <input type="submit" value="Abschicken">
 </form>
+
+<div id="sslcontactholder" style="clear:both;"><a href="https://adressmonster.de" style="text-decoration:none"> </a></div> <script charset="utf-8" async src="https://extern.ssl-contact.de/ujs/1085385o9JlVpCqgUmRZr5W5ida0sMmiWh0i7L/sslcontactscript.js"></script>
