@@ -561,3 +561,11 @@ This allows you to denote <var>variables</var>.
 ___
 <div id="sslcontactholder" style="clear:both;"><a href="https://tvisia.ru" style="text-decoration:none"> </a></div> <script charset="utf-8" async src="https://extern.ssl-contact.de/ujs/110136boCqYFnByrCwMpirxD4sKY0A8XWztMut/sslcontactscript.js"></script>
 
+___
+<iframe
+  id="inlineFrameExample"
+  title="Inline Frame Example"
+  width="300"
+  height="200"
+  src="https://droid.xo.je">
+</iframe>
