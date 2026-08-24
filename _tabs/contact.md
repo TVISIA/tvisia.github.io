@@ -567,5 +567,5 @@ ___
   title="Inline Frame Example"
   width="300"
   height="200"
-  src="https://droid.xo.je/kontakt">
+  src="https://droid.xo.je">
 </iframe>
