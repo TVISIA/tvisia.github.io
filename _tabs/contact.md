@@ -194,7 +194,7 @@ ___
 {: .prompt-info }
 
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
-{: . prompt-default }
+{: . prompt-red }
 
 ___
 ![Appteka](https://raw.githubusercontent.com/TVISIA/tvisia.github.io/refs/heads/main/assets/img/dlappteka_20240512185130.png){: width="200"}
