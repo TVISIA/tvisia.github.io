@@ -38,11 +38,11 @@ ___
 ___
 ## Badges
 
-![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
+![https://img.shields.io/badge/any_text-you_like-blue)](https://img.shields.io/badge/any_text-you_like-blue)
 ![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/coverage-95%25-orange)
-![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github)
+![https://www.github.com](https://img.shields.io/badge/github-repo-blue?logo=github)
 ___
 ## GitHub Tasks
 
