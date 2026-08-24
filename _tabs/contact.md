@@ -13,7 +13,7 @@ order: 5
 {: .prompt-warning }
 ___
 > Erstelle eigene Kurzlinks mit `AFTV.NEWS` und öffne sie einfach per 5-stelligen Zifferncode mit der Downloader App.
-{: .prompt-error }
+{: .prompt-danger }
 ___
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
 {: .prompt-success }
@@ -22,7 +22,7 @@ ___
 {: .prompt-tip }
 ___
 > Teste die Geschwindigkeit deiner Netzwerkverbindung mit `FAST.COM` 
-{: .prompt-note }
+{: .prompt-info }
 ___
 > Erstelle eigene Kurzlinks mit `AFTV.NEWS` und öffne sie einfach per 5-stelligen Zifferncode mit der Downloader App.
 {: .prompt-warning }
