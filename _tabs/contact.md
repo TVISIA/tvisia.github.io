@@ -262,11 +262,11 @@ Error Text.
 
 | `Border` | `Shadow` |
 | ---- | ---- |
-| ![Image](/assets/img/stores/dlaptoide.png "Image_border"){:.border} | ![Image](/assets/img/stores/dlappteka.png "Image_shadow"){:.shadow} |
+|![Image](/assets/img/stores/dlaptoide.png "Image_border"){:.border} | ![Image](/assets/img/stores/dlappteka.png "Image_shadow"){:.shadow} |
 | `Rounded` | `Circle` |
 | ---- | ---- |
-| ![Image](/assets/img/stores/dlaptoide.png "Image_border"){:.border} | ![Image](/assets/img/stores/dlappteka.png "Image_shadow"){:.shadow} |
-| ![Image](/assets/img/stores/dlapkpure.png "Image_rounded"){:.rounded} | ![Image](/assets/img/stores/dlgithub.png "Image_circle"){:.circle} |
+|![Image](/assets/img/stores/dlaptoide.png "Image_border"){:.border} | ![Image](/assets/img/stores/dlappteka.png "Image_shadow"){:.shadow} |
+|![Image](/assets/img/stores/dlapkpure.png "Image_rounded"){:.rounded} | ![Image](/assets/img/stores/dlgithub.png "Image_circle"){:.circle} |
 ![Image](/assets/img/stores/dlfdroid.png "Image_circle"){:.circle} |
 | ![Image](/assets/img/stores/dlamazonappstore.png "Image_border+rounded"){:.border.rounded} | ![Image](/assets/img/stores/dlgoogleplay.png "Image_circle+shadow"){:.circle.shadow} |
 
@@ -548,7 +548,6 @@ This allows you to denote <var>variables</var>.
 <div id="sslcontactholder" style="clear:both;"><a href="https://adressmonster.de" style="text-decoration:none"> </a></div> <script charset="utf-8" async src="https://extern.ssl-contact.de/ujs/1085385o9JlVpCqgUmRZr5W5ida0sMmiWh0i7L/sslcontactscript.js"></script>
 ___
 <div id="sslcontactholder" style="clear:both;"><a href="https://adressmonster.de" style="text-decoration:none"> </a></div> <script charset="utf-8" async src="https://extern.ssl-contact.de/ujs/110136boCqYFnByrCwMpirxD4sKY0A8XWztMut/sslcontactscript.js"></script>
-
 ___
 <iframe
   id="inlineFrameExample"
