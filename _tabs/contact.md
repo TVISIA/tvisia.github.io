@@ -262,17 +262,16 @@ Error Text.
 
 | `Border` | `Shadow` |
 | ---- | ---- |
-| ![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_border"){:.border} | ![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_shadow"){:.shadow} |
-
+| ![Image](/assets/img/stores/dlaptoide.png "Image_border"){:.border} | ![Image](/assets/img/stores/dlappteka.png "Image_shadow"){:.shadow} |
 | `Rounded` | `Circle` |
 | ---- | ---- |
-| ![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_rounded"){:.rounded} | ![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_circle"){:.circle} |
+| ![Image](/assets/img/stores/dlapkpure.png "Image_rounded"){:.rounded} | ![Image](/assets/img/stores/dlgithub.png "Image_circle"){:.circle} |
 
 ### Mixture
 
 | `Border+Rounded` | `Circle+Shadow` |
 | ---- | ---- |
-| ![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_border+rounded"){:.border.rounded} | ![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_circle+shadow"){:.circle.shadow} |
+| ![Image](/assets/img/stores/dlamazonappstore.png "Image_border+rounded"){:.border.rounded} | ![Image](/assets/img/stores/dlgoogleplay.png "Image_circle+shadow"){:.circle.shadow} |
 
 | `Rounded+Shadow` | `Circle+Border+Shadow` |
 | ---- | ---- |
