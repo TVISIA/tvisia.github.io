@@ -265,7 +265,11 @@ Error Text.
 | ![Image](/assets/img/stores/dlaptoide.png "Image_border"){:.border} | ![Image](/assets/img/stores/dlappteka.png "Image_shadow"){:.shadow} |
 | `Rounded` | `Circle` |
 | ---- | ---- |
+| ![Image](/assets/img/stores/dlaptoide.png "Image_border"){:.border} | ![Image](/assets/img/stores/dlappteka.png "Image_shadow"){:.shadow} |
 | ![Image](/assets/img/stores/dlapkpure.png "Image_rounded"){:.rounded} | ![Image](/assets/img/stores/dlgithub.png "Image_circle"){:.circle} |
+![Image](/assets/img/stores/dlfdroid.png "Image_circle"){:.circle} |
+| ![Image](/assets/img/stores/dlamazonappstore.png "Image_border+rounded"){:.border.rounded} | ![Image](/assets/img/stores/dlgoogleplay.png "Image_circle+shadow"){:.circle.shadow} |
+
 
 ### Mixture
 
