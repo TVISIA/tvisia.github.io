@@ -277,6 +277,18 @@ Error Text.
 | ---- | ---- |
 | ![Image](/assets/img/stores/dlamazonappstore.png "Image_border+rounded"){:.border.rounded} | ![Image](/assets/img/stores/dlgoogleplay.png "Image_circle+shadow"){:.circle.shadow} |
 
+| `Border+Rounded` | `Circle+Shadow` |
+| ---- | ---- |
+| ![Image](/assets/img/stores/dlaptoide.png "Image_border+rounded"){:.border.rounded} | ![Image](/assets/img/stores/dlgithub.png "Image_circle+shadow"){:.circle.shadow} |
+
+| `Border+Rounded` | `Circle+Shadow` |
+| ---- | ---- |
+| ![Image](/assets/img/stores/dlfdroid.png "Image_border+rounded"){:.border.rounded} | ![Image](/assets/img/stores/dlappteka.png "Image_circle+shadow"){:.circle.shadow} |
+
+| `Border+Rounded` | `Circle+Shadow` |
+| ---- | ---- |
+| ![Image](/assets/img/stores/dlapkpure.png "Image_border+rounded"){:.border.rounded} |  |
+
 | `Rounded+Shadow` | `Circle+Border+Shadow` |
 | ---- | ---- |
 | ![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_rounded+shadow"){:.circle.rounded.shadow} | ![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_circle+border+shadow"){:.circle.border.shadow}
