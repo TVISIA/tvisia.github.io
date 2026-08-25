@@ -126,52 +126,37 @@ ___
 
 <a href="https://www.x.com" target="_blank" rel="noopener">
   <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
-</a>
-
-<a href="https://www.telegram.com" target="_blank" rel="noopener">
+</a><a href="https://www.telegram.com" target="_blank" rel="noopener">
   <i class="fa-brands fa-telegram" aria-hidden="true"></i>
-</a>
-
-<a href="https://www.github.com" target="_blank" rel="noopener">
+</a><a href="https://www.github.com" target="_blank" rel="noopener">
   <i class="fa-brands fa-github" aria-hidden="true"></i>
-</a>
-
-<a href="https://www.amazon.com" target="_blank" rel="noopener">
+</a><a href="https://www.amazon.com" target="_blank" rel="noopener">
   <i class="fa-brands fa-amazon" aria-hidden="true"></i>
-</a>
-
-<a href="https://www.google.com" target="_blank" rel="noopener">
+</a>110136boCqYFnByrCwMpirxD4sKY0A8XWztMut
+n<a href="https://www.google.com" target="_blank" rel="noopener">
   <i class="fa-brands fa-google" aria-hidden="true"></i>
   </a>
-  
 <a href="https://www.facebook.com" target="_blank" rel="noopener">
   <i class="fa-brands fa-facebook" aria-hidden="true"></i>
 </a>
-
 <a href="https://www.youtube.com" target="_blank" rel="noopener">
   <i class="fa-brands fa-youtube" aria-hidden="true"></i>
 </a>
-
 <a href="https://www.pinterest.com" target="_blank" rel="noopener">
   <i class="fa-brands fa-pinterest" aria-hidden="true"></i>
 </a>
-
 <a href="https://www.whatsapp.com" target="_blank" rel="noopener">
   <i class="fa-brands fa-whatsapp" aria-hidden="true"></i>
 </a>
-
 <a href="https://www.spotify.com" target="_blank" rel="noopener">
   <i class="fa-brands fa-spotify" aria-hidden="true"></i>
 </a>
-
 <a href="https://www.xmpp.com" target="_blank" rel="noopener">
   <i class="fa-brands fa-xmpp" aria-hidden="true"></i>
 </a>
-
 Signal 
 <i class="fa-brands fa-signal-messenger"><a href="https://www.signal.de"></a></i>
 ___
-
 > Überprüfe jede heruntergeladene APK-Datei mit `VirusTotal` auf schädlichen Code. 
 {: .prompt-info }
 
