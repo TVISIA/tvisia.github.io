@@ -1,8 +1,12 @@
 ---
 title: SmartTube
-date: 2026-08-10 08:14:30 
-categories: [Apps, YouTube]
-tags: [fire tv stick]     # TAG names should always be lowercase
+date: '2026-08-10T08:14:30.000Z'
+categories:
+  - Apps
+  - YouTube
+tags:
+  - fire tv stick
+front: ''
 ---
 
 eine intuitive schnelle Benutzeroberfläche für Android TV Geräte.
