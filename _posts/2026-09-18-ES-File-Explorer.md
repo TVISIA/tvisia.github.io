@@ -245,9 +245,9 @@ Add a table of contents to your Markdown files with our [Markdown TOC generator]
 
 ### Example TOC
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Conclusion](#conclusion)
+- [Introduction](https://tvisia.ru)
+- [Features](https://tvisia.ru)
+- [Conclusion](https://tvisia.ru)
 
 > **Tip**: Long document? [Generate a clickable table of contents](https://tvisia.ru) from your headings in one click.
 
