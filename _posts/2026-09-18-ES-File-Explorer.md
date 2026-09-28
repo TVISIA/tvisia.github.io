@@ -344,7 +344,7 @@ Speed up your workflow:
 Engage readers with formatted links and images:
 
 - **Descriptive Link**: Try our [online Markdown editor](#).
-- **Image**: ![Markdown Logo](/markdown.png)
+- **Image**: ![Markdown Logo](/img/stores/dlgoogleplay.png)
 
 ## Advanced Formatting Techniques
 
